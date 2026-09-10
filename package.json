@@ -17,19 +17,19 @@
     "stop": "pm2 stop 'blog'"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.20.0",
     "crypto": "^1.0.1",
     "element-ui": "^2.3.6",
-    "highlight.js": "^9.12.0",
+    "highlight.js": "^11.12.0",
     "html2canvas": "^1.0.0-rc.3",
     "identicon.js": "^2.3.3",
     "jquery": "^3.4.1",
-    "marked": "^0.3.19",
+    "marked": "^18.0.12",
     "mobx": "^4.2.0",
-    "nuxt": "^1.0.0",
+    "nuxt": "^4.5.2",
     "qrcode": "^1.4.1",
     "vue-cookie": "^1.1.4",
-    "wangeditor": "^3.1.1"
+    "wangeditor": "^4.7.15"
   },
   "devDependencies": {
     "@nuxtjs/axios": "^5.3.1",
